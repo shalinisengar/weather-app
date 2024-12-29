@@ -37,6 +37,11 @@ body{
     height: 60px;
     cursor: pointer;
 }
+
+button:hover {
+    background-color: rgb(2, 246, 19);
+   
+  }
 .search button img{
     width: 16px;
 }
